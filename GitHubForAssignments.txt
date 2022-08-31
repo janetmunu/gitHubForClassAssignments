@@ -1,2 +1,1 @@
- GitHubForAssignments.txt
- I will use all methods conventient
+I used convenient methods
